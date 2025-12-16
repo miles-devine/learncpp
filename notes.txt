@@ -1,0 +1,1 @@
+1) Find the root cause 2) Ensure that you understand why the issues is occurring 3) Determine the fix 4) Repair the issue 5) Retest to ensure the issue is resolved 6) Retest to ensure that no new issues arise
