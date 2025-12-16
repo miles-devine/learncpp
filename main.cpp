@@ -1,5 +1,5 @@
 #include <iostream>
 
 int main() {
-	std::cout << "Hello, world!";
+	std:: cout << "Sage smells like farts...\n";
 }
